@@ -1,0 +1,2 @@
+Esse eh um arquivo de exemplo para testar o /upload.
+Se ele aparecer identico na pasta recebidos, a transferencia funcionou!
